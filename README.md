@@ -16,6 +16,6 @@ Model props → Select all → Base Name: Crate
 
 Click rename → Export FBX
 
-Import into Unity / Unreal / FiveM
+Import into Unity / Unreal
 
 Clean, professional asset names 
